@@ -28,3 +28,6 @@ This GitHub repository contains an implementation of Speaker Identification usin
   <dd>Dept. of Electronics and Communication Engineering, Amrita Vishwa Vidyapeetham, Amritapuri, India</dd>
 </dl>
 
+<h1>Cite This</h1>
+D. R. Yerramreddy, J. Marasani, P. S. V. Gowtham, S. Yashwanth, P. S S, and A. K, "Speaker Identification Using MFCC Feature Extraction: A Comparative Study Using GMM, CNN, RNN, KNN, and Random Forest Classifier," *2023 Second International Conference on Trends in Electrical, Electronics, and Computer Engineering (TEECCON)*, Bangalore, India, 2023, pp. 287-292, doi: [10.1109/TEECCON59234.2023.10335892](https://doi.org/10.1109/TEECCON59234.2023.10335892).
+
