@@ -2,7 +2,8 @@
 This GitHub repository contains an implementation of Speaker Identification using MFCC feature extraction. The project includes a comprehensive comparison between GMM, CNN, Random Forest, RNN and KNN for speaker identification tasks.
 
 <p> 
-  <strong>Paper Link: </strong> <a href="https://ieeexplore.ieee.org/document/10335892">click Here</a>
+  <strong>Paper Link: </strong> <a href="https://ieeexplore.ieee.org/document/10335892">click Here</a> <br>
+  <strong>Dataset Link: </strong> <a href="https://www.openslr.org/12">click Here</a>
 </p>
 
 <h1>Authors</h1>
